@@ -9,7 +9,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/vscode.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/vscode.svg" />] [#]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/html.svg" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/css.svg" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/javascript.svg" />]
