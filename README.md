@@ -47,6 +47,6 @@
 <br />
 
 [telegram]: https://t.me/curat
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/aleksei-kuzmenko
 [instagram]: https://www.instagram.com/archie_low
 [blank]: /
