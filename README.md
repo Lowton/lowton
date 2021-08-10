@@ -8,7 +8,7 @@
 
 <br />
 
-### Tchnology
+### Technology
 #### Back end
 [<img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/java.svg" />][blank]
 [<img align="left" alt="Spring Framework" title="Spring Framework" width="26px" src="https://raw.githubusercontent.com/Lowton/lowton/main/tools/spring.svg" />][blank]
